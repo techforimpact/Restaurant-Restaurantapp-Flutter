@@ -1,0 +1,90 @@
+{
+  "project_info": {
+    "project_number": "613334440308",
+    "project_id": "book-a-table-ef785",
+    "storage_bucket": "book-a-table-ef785.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:613334440308:android:fa9ae63f71c7c24760f421",
+        "android_client_info": {
+          "package_name": "com.example.book_a_table"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "613334440308-ijas3s1s2jvhp4gpi31r37k03dvhngrm.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.book_a_table",
+            "certificate_hash": "44311c4702124f10373a442868403a97362fd7d6"
+          }
+        },
+        {
+          "client_id": "613334440308-qdq5tr7793s787gajjvgvjabr1kkgk33.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCGHv5hR4EPiTE5aW6YcUGoDoN2cglRPR8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "613334440308-qdq5tr7793s787gajjvgvjabr1kkgk33.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "613334440308-jgsmbuu5uvdrmi6ls2a0b1d958pii34c.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.example.bookATable"
+              }
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:613334440308:android:364bc982c0a1166b60f421",
+        "android_client_info": {
+          "package_name": "com.example.book_a_table_restaurent"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "613334440308-qdq5tr7793s787gajjvgvjabr1kkgk33.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCGHv5hR4EPiTE5aW6YcUGoDoN2cglRPR8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "613334440308-qdq5tr7793s787gajjvgvjabr1kkgk33.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "613334440308-jgsmbuu5uvdrmi6ls2a0b1d958pii34c.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.example.bookATable"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
